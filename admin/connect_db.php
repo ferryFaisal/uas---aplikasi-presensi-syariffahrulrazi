@@ -2,6 +2,7 @@
 
 $servername = "localhost";
 $username = "root";
+$passwordDB = "";
 $dbname = "uas";
 
 // Create connection
